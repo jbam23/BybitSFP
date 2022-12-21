@@ -1,0 +1,1 @@
+Script that utilized Bybit price data to detect local maxima/minima for the purposes of using them to find triggers for swing failure patterns
